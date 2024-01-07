@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.one {
+
+    position: relative;
+    left: 35%;
+    top: 1%;
+    width: 70%;
+    height: 100%;
+    color: #FFFFFF;
+    font-family: Merriweather;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 900;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.first {
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-size: cover;
+    opacity: .3;
+    /* background-color: (0, 0, 0, .5); */
+
+
+}
+
+.two {
+    width: 35%;
+    height: 150%;
+    position: relative;
+    top: 45%;
+    left: 40%;
+    font-size: x-large;
+
+    font-weight: 850;
+    color: #fff;
+    text-justify: distribute-all-lines;
+    /* font-size: 100%;
+    font-family: 'Merriweather', serif; */
+}
+
+.section2 {
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-family: 'Inter', sans-serif;
+    color: #FF0000;
+    margin: 5%;
+}
+
+.our {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: #FF0000;
+    margin-top: 0%;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.we {
+    font-family: 'Inter', sans-serif;
+    color: #070211;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.photo {
+    width: 35%;
+}
+
+.photo2 {
+    width: 18vw;
+    position: relative;
+    top: 7%;
+    left: 1%;
+    margin: 65px 120px 60px 700px;
+
+
+
+
+}
+
+/* .party {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    color: #970b0b;
+    font-size: 32px;
+    font-weight: 700;
+    height: 100%;
+    color: red;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+} */
+
+.bb {
+    display: flex;
+    background-image: url('../resources/Vectorrr.png');
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+
+}
