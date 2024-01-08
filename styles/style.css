@@ -109,7 +109,7 @@
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
-    padding-left: 30%;
+    padding-left: 22%;
     letter-spacing: 1px;
     color: #FFFFFFCC;
     padding-top: 1%;
@@ -141,8 +141,9 @@
 
 .time {
     background-color: antiquewhite;
+
     margin-top: 60px;
-    /* margin-left: 200px; */
+    margin-left: 200px;
     margin-bottom: 200px;
     margin-right: 250px;
     height: 50vh;
@@ -161,15 +162,18 @@
 }
 
 .btn2 {
-    display: inline-flex;
+    color: #FFFFFF;
     padding: 16px 32px;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
     border-radius: 8px;
     background: #F00;
     margin-top: 30px;
     margin-bottom: 100px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    *
 }
 
 
@@ -218,10 +222,9 @@
 .photo3 {
     border: 10px solid red;
     border-radius: 50%;
-    padding: 8%;
-    /* position: relative;
-    left: 5%; */
-    /* height: min-content; */
+    padding: 4%;
+
+
 
 }
 
@@ -248,8 +251,10 @@
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 32px;
-    /* 160% */
+
+
+    /* line-height: 32px; */
+
 }
 
 .port {
@@ -260,10 +265,11 @@
 .ok {
     color: #F00;
     font-family: Inter;
-    font-size: 12px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 400;
     margin-bottom: 5px;
+    padding-left: 2%;
 }
 
 .sim {
@@ -273,6 +279,7 @@
     font-style: normal;
     font-weight: 900;
     margin-bottom: 12px;
+    padding-left: 2%;
 }
 
 .perform {
@@ -281,11 +288,13 @@
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
+    padding-left: 2%;
 
 }
 
 .weak {
     display: flex;
+    padding-left: 2%;
 }
 
 .pari-na1 {
@@ -315,6 +324,7 @@
 
 .weak2 {
     display: flex;
+    padding-left: 2%;
 }
 
 .pari-na4 {
@@ -381,24 +391,40 @@
 }
 
 .middle {
-    text-align: center;
+    align-items: center;
 }
 
 .mail {
-    width: 500px;
+    width: 400px;
     height: 40px;
-    border-radius: 16px;
+    padding-left: 40px;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 20px;
     background: rgba(247, 241, 241, 0.05);
     margin-bottom: 60px;
-
+    align-items: center;
 }
 
 .btn6 {
-    margin: 0;
+    margin: 20%;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     width: 100px;
     height: 40px;
+    align-items: center;
+}
 
+.street {
+    display: flex;
+    justify-content: space-between;
+}
 
+.social-links {
+    display: flex;
+    justify-content: center;
+}
+
+.copy-right {
+    display: flex;
+    justify-content: space-between;
 }
