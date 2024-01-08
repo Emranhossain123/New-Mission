@@ -83,31 +83,33 @@
 
 .photo2 {
     width: 18vw;
-    height: 20%;
-    position: relative;
-
+    height: 50vh;
+    position: absolute;
+    top: 18%;
     left: 70%;
+    right: 10%;
 
-    /
 }
 
 .party {
     /* font-family: 'Inter', sans-serif; */
     font-family: 'Merriweather', serif;
 
-    font-size: 48px;
-    font-weight: 700;
+    font-size: 56px;
+    font-weight: 900;
     color: #FFFFFF;
-    padding-top: 11%;
-    padding-left: 12%;
-    letter-spacing: 13px;
+    padding-top: 32%;
+    padding-left: 30%;
+    word-spacing: 10px;
+    /* letter-spacing: 5px; */
+    /* gap: 20px; */
 }
 
 .dance {
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
-    padding-left: 12%;
+    padding-left: 30%;
     letter-spacing: 1px;
     color: #FFFFFFCC;
     padding-top: 1%;
@@ -117,9 +119,10 @@
 .btn {
     color: #053e31;
     /* background-color: rgb(5, 143, 131); */
-    margin-top: 3%;
-    margin-left: 3%;
+    margin-top: 25%;
+    margin-left: 5%;
     text-align: center;
+    padding-left: ;
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
@@ -127,18 +130,19 @@
 }
 
 .bb {
-    /* display: flex; */
+    display: flex;
     background-image: url('../resources/Vectorrr.png');
     /* width: 100vw; */
     height: 100vh;
     position: relative;
+    top: 20%;
     background-size: cover;
 }
 
 .time {
     background-color: antiquewhite;
     margin-top: 60px;
-    margin-left: 200px;
+    /* margin-left: 200px; */
     margin-bottom: 200px;
     margin-right: 250px;
     height: 50vh;
@@ -168,6 +172,82 @@
     margin-bottom: 100px;
 }
 
+
+
 .flex {
     display: flex;
+    margin-top: 20px;
+}
+
+.best {
+    color: #F00;
+    /* text-align: center; */
+    padding-left: 40%;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 200;
+    word-spacing: 1px;
+    margin-bottom: 10px;
+
+}
+
+.come {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 100;
+
+    padding-left: 40%;
+
+
+}
+
+.discount {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-left: 40%;
+}
+
+.photo3 {
+    border: 10px solid red;
+    border-radius: 50%;
+    padding: 8%;
+    /* position: relative;
+    left: 5%; */
+    /* height: min-content; */
+
+}
+
+.photo4 {
+    padding-left: 20%;
+    margin-top: 50px;
+}
+
+.red2 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 20%;
+}
+
+.year {
+    padding-left: 20%;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
 }
