@@ -251,3 +251,93 @@
     line-height: 32px;
     /* 160% */
 }
+
+.port {
+    margin-top: 20%;
+    padding-left: 15%;
+}
+
+.ok {
+    color: #F00;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.sim {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    margin-bottom: 12px;
+}
+
+.perform {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.weak {
+    display: flex;
+}
+
+.pari-na1 {
+    width: 15%;
+    height: 20%;
+
+    margin-left: 15%;
+    margin-right: 12px;
+    margin-top: 20px;
+    border: 1px solid royalblue;
+}
+
+.pari-na2 {
+    width: 15%;
+    height: 20%;
+    margin-top: 20px;
+    margin-right: 12px;
+    border: 1px solid royalblue;
+}
+
+.pari-na3 {
+    width: 15%;
+    height: 20%;
+    margin-top: 20px;
+    border: 1px solid royalblue;
+}
+
+.weak2 {
+    display: flex;
+}
+
+.pari-na4 {
+    width: 15%;
+    height: 20%;
+
+    margin-left: 15%;
+    margin-right: 12px;
+    margin-top: 20px;
+    border: 1px solid royalblue;
+}
+
+.pari-na5 {
+    width: 15%;
+    height: 20%;
+    margin-top: 20px;
+    margin-right: 12px;
+    border: 1px solid royalblue;
+}
+
+.pari-na6 {
+    width: 15%;
+    height: 20%;
+    margin-top: 20px;
+    border: 1px solid royalblue;
+}
