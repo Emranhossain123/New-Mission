@@ -17,7 +17,6 @@
     font-weight: 600;
     justify-content: center;
 
-
 }
 
 .first {
@@ -84,36 +83,91 @@
 
 .photo2 {
     width: 18vw;
+    height: 20%;
     position: relative;
-    top: 7%;
-    left: 1%;
-    margin: 65px 120px 60px 700px;
 
+    left: 70%;
 
-
-
+    /
 }
 
 .party {
-    font-family: 'Inter', sans-serif;
-    /* font-family: 'Merriweather', serif; */
+    /* font-family: 'Inter', sans-serif; */
+    font-family: 'Merriweather', serif;
 
-    font-size: 64px;
-    font-weight: 600;
-    height: 100%;
-    color: red;
-    /* display: flex; */
-    justify-content: center;
-    flex-direction: column;
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding-top: 11%;
+    padding-left: 12%;
+    letter-spacing: 13px;
+}
 
+.dance {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 12%;
+    letter-spacing: 1px;
+    color: #FFFFFFCC;
+    padding-top: 1%;
+
+}
+
+.btn {
+    color: #053e31;
+    /* background-color: rgb(5, 143, 131); */
+    margin-top: 3%;
+    margin-left: 3%;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 .bb {
     /* display: flex; */
     background-image: url('../resources/Vectorrr.png');
-    width: 100vw;
+    /* width: 100vw; */
     height: 100vh;
     position: relative;
     background-size: cover;
+}
 
+.time {
+    background-color: antiquewhite;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+    margin-right: 250px;
+    height: 50vh;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: center;
+    padding: 7%;
+}
+
+.red {
+    color: red
+}
+
+.btn2 {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.flex {
+    display: flex;
 }
