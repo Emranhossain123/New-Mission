@@ -9,11 +9,11 @@
     margin-left: 60px;
     margin-right: 60px;
     position: relative;
-    left: 5%;
-    top: 8%;
+    left: 2%;
+    top: 13%;
     color: #dac6c6;
     font-family: Merriweather;
-    font-size: 48px;
+    font-size: 36px;
     font-weight: 600;
     justify-content: center;
 
@@ -28,6 +28,9 @@
     position: relative;
     background-size: cover;
 
+    /* opacity: 50%;
+    background-blend-mode: multiply; */
+
 
     /* background-color: black;
     opacity: 50%; */
@@ -38,10 +41,12 @@
 .helw {
     color: #FFFFFF;
     text-align: center;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 400;
+    letter-spacing: 5px;
     position: relative;
-    top: 30%;
+    top: 35%;
+    left: 2%;
     justify-content: center;
 }
 
@@ -89,22 +94,22 @@
 
 }
 
-/* .party {
+.party {
     font-family: 'Inter', sans-serif;
-    font-family: 'Merriweather', serif;
-    color: #970b0b;
-    font-size: 32px;
-    font-weight: 700;
+    /* font-family: 'Merriweather', serif; */
+
+    font-size: 64px;
+    font-weight: 600;
     height: 100%;
     color: red;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     flex-direction: column;
 
-} */
+}
 
 .bb {
-    display: flex;
+    /* display: flex; */
     background-image: url('../resources/Vectorrr.png');
     width: 100vw;
     height: 100vh;
