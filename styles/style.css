@@ -98,8 +98,8 @@
     font-size: 56px;
     font-weight: 900;
     color: #FFFFFF;
-    padding-top: 32%;
-    padding-left: 30%;
+    padding-top: 23%;
+    padding-left: 22%;
     word-spacing: 10px;
     /* letter-spacing: 5px; */
     /* gap: 20px; */
@@ -117,16 +117,16 @@
 }
 
 .btn {
-    color: #053e31;
-    /* background-color: rgb(5, 143, 131); */
-    margin-top: 25%;
-    margin-left: 5%;
+    color: #0b0808;
+
+
+    margin-top: 12%;
+    margin-left: 3%;
     text-align: center;
-    padding-left: ;
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
-    text-transform: uppercase;
+
 }
 
 .bb {
@@ -340,4 +340,65 @@
     height: 20%;
     margin-top: 20px;
     border: 1px solid royalblue;
+}
+
+.weak3 {
+    background-color: #FF00000D;
+
+
+    margin-top: 100px;
+
+}
+
+.photo5 {
+    padding-left: 46%;
+    margin-top: 70px;
+
+}
+
+.Newsletter {
+    text-align: center;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+.email {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+.middle {
+    text-align: center;
+}
+
+.mail {
+    width: 500px;
+    height: 40px;
+    border-radius: 16px;
+    background: rgba(247, 241, 241, 0.05);
+    margin-bottom: 60px;
+
+}
+
+.btn6 {
+    margin: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 100px;
+    height: 40px;
+
+
 }
