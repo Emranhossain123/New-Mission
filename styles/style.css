@@ -300,12 +300,14 @@
 .pari-na1 {
     width: 15%;
     height: 20%;
-
     margin-left: 15%;
     margin-right: 12px;
     margin-top: 20px;
-    border: 1px solid royalblue;
+    border: 1px solid blue;
+    border-radius: 10px;
 }
+
+
 
 .pari-na2 {
     width: 15%;
@@ -313,6 +315,7 @@
     margin-top: 20px;
     margin-right: 12px;
     border: 1px solid royalblue;
+    border-radius: 10px;
 }
 
 .pari-na3 {
@@ -320,6 +323,8 @@
     height: 20%;
     margin-top: 20px;
     border: 1px solid royalblue;
+    border-radius: 10px;
+
 }
 
 .weak2 {
@@ -335,6 +340,8 @@
     margin-right: 12px;
     margin-top: 20px;
     border: 1px solid royalblue;
+    border-radius: 10px;
+
 }
 
 .pari-na5 {
@@ -343,6 +350,7 @@
     margin-top: 20px;
     margin-right: 12px;
     border: 1px solid royalblue;
+    border-radius: 10px;
 }
 
 .pari-na6 {
@@ -350,13 +358,14 @@
     height: 20%;
     margin-top: 20px;
     border: 1px solid royalblue;
+    border-radius: 10px;
 }
 
 .weak3 {
 
     background: #FF00000D;
     margin-top: 100px;
-    margin-bottom: 30%;
+    margin-bottom: 5%;
 }
 
 .photo5 {
@@ -437,38 +446,4 @@
 
 .btn6:focus {
     outline: none;
-}
-
-.final {
-
-    background: #431995;
-}
-
-.road {
-    display: flex;
-    /* justify-content: space-around; */
-    justify-content: space-between;
-    color: white;
-    width: 100%;
-    padding-bottom: 10%;
-    position: absolute;
-    left: auto;
-
-
-}
-
-.social-link {
-    display: flex;
-    justify-content: center;
-    width: 100%
-}
-
-.social-link a {
-    margin-right: 20px;
-}
-
-.ses {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
 }
