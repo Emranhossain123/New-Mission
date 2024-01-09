@@ -21,11 +21,13 @@
 
 .first {
     background-image: url('../resources/Banner\ Image.png');
+
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
     position: relative;
     background-size: cover;
+
 
     /* opacity: 50%;
     background-blend-mode: multiply; */
@@ -132,6 +134,7 @@
 .bb {
     display: flex;
     background-image: url('../resources/Vectorrr.png');
+
     /* width: 100vw; */
     height: 100vh;
     position: relative;
@@ -267,7 +270,7 @@
     font-style: normal;
     font-weight: 400;
     margin-bottom: 5px;
-    padding-left: 2%;
+    padding-left: 8%;
 }
 
 .sim {
@@ -277,7 +280,7 @@
     font-style: normal;
     font-weight: 900;
     margin-bottom: 12px;
-    padding-left: 2%;
+    padding-left: 8%;
 }
 
 .perform {
@@ -286,13 +289,13 @@
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
-    padding-left: 2%;
+    padding-left: 8%;
 
 }
 
 .weak {
     display: flex;
-    padding-left: 2%;
+    padding-left: 8%;
 }
 
 .pari-na1 {
@@ -327,7 +330,7 @@
 
 .weak2 {
     display: flex;
-    padding-left: 2%;
+    padding-left: 8%;
 }
 
 .pari-na4 {
@@ -468,6 +471,7 @@
     bottom: 5%;
     text-decoration: none;
 }
+
 
 .social-icons {
     display: flex;
