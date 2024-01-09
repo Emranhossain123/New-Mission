@@ -29,13 +29,6 @@
     background-size: cover;
 
 
-    /* opacity: 50%;
-    background-blend-mode: multiply; */
-
-
-    /* background-color: black;
-    opacity: 50%; */
-
 
 }
 
@@ -304,10 +297,8 @@
     margin-left: 15%;
     margin-right: 12px;
     margin-top: 20px;
-    border: 1px solid blue;
-    border-radius: 10px;
-}
 
+}
 
 
 .pari-na2 {
@@ -315,16 +306,14 @@
     height: 20%;
     margin-top: 20px;
     margin-right: 12px;
-    border: 1px solid royalblue;
-    border-radius: 10px;
+
 }
 
 .pari-na3 {
     width: 15%;
     height: 20%;
     margin-top: 20px;
-    border: 1px solid royalblue;
-    border-radius: 10px;
+
 
 }
 
@@ -340,8 +329,8 @@
     margin-left: 15%;
     margin-right: 12px;
     margin-top: 20px;
-    border: 1px solid royalblue;
-    border-radius: 10px;
+
+
 
 }
 
@@ -350,16 +339,14 @@
     height: 20%;
     margin-top: 20px;
     margin-right: 12px;
-    border: 1px solid royalblue;
-    border-radius: 10px;
+
 }
 
 .pari-na6 {
     width: 15%;
     height: 20%;
     margin-top: 20px;
-    border: 1px solid royalblue;
-    border-radius: 10px;
+
 }
 
 .weak3 {
