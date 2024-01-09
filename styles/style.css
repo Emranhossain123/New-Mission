@@ -506,6 +506,12 @@
 
 .copy3 {
     margin-top: 2%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
     margin-right: 10%;
+}
+
+.pera2 {
+    position: relative;
+    top: 5px;
+    right: 8px;
 }
