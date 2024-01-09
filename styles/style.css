@@ -447,3 +447,55 @@
 .btn6:focus {
     outline: none;
 }
+
+.end {
+    width: 120%;
+    height: 100%;
+    background-color: #000;
+
+}
+
+.address {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40%;
+    padding-bottom: 5%;
+    width: 50vw;
+    color: #FFF;
+}
+
+.street {
+    position: relative;
+    right: 70%;
+    bottom: 5%;
+    text-decoration: none;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    margin-right: 15px;
+}
+
+.copy {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.copy2 {
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+.copy3 {
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-right: 10%;
+}
