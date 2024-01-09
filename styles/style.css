@@ -463,6 +463,10 @@
     padding-bottom: 5%;
     width: 50vw;
     color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+
 }
 
 .street {
@@ -488,6 +492,10 @@
     display: flex;
     justify-content: space-between;
     color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+
 }
 
 .copy2 {
